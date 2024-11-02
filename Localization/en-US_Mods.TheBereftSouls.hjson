@@ -46,7 +46,7 @@ Items: {
 
 Buffs: {
 	PatchedUpDebuff: {
-		DisplayName: Patched Up Debuff
+		DisplayName: Patched Up
 		Description: The blooming hooks have sacrificed themselves for you...
 	}
 }
