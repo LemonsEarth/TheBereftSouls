@@ -79,7 +79,7 @@ namespace TheBereftSouls.Content.Items.Accessories.Enchantments
             recipe.AddIngredient(ModContent.ItemType<PatchLeatherTunic>());
             recipe.AddIngredient(ModContent.ItemType<PatchLeatherPants>());
             recipe.AddIngredient(ModContent.ItemType<SnakeBow>());
-            recipe.AddIngredient(ItemID.PoisonDart, 300);
+            recipe.AddIngredient(ItemID.MysticCoilSnake);
             recipe.AddIngredient(ModContent.ItemType<SunlightAmulet>());
             recipe.AddTile(TileID.DemonAltar);
             recipe.Register();
