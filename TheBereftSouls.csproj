@@ -30,4 +30,9 @@
       <Reference Include="lib\*.dll"></Reference>
     </ItemGroup>
 
+    <ItemGroup>
+      <None Remove="Content\Buffs\SnakeAttached.png" />
+      <None Remove="Content\Items\Accessories\Enchantments\PatchLeatherEnchantment.png" />
+    </ItemGroup>
+
 </Project>

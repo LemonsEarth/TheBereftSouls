@@ -6,7 +6,7 @@ using Terraria.Localization;
 using Terraria.ModLoader;
 using TheBereftSouls.Players;
 
-namespace TheBereftSouls.Content.Items.Accessories
+namespace TheBereftSouls.Content.Items.Accessories.Enchantments
 {
     [ExtendsFromMod("SOTS")]
     public class FrigidEnchantment : ModItem

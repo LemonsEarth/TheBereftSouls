@@ -5,12 +5,12 @@ using Terraria.Audio;
 using Terraria.ID;
 using Terraria.ModLoader;
 using TheBereftSouls.Common.Systems;
-using TheBereftSouls.Content.Projectiles.Friendly;
+using TheBereftSouls.Content.Projectiles.Friendly.Special;
 using TheBereftSouls.Content.Tiles.Special;
 using TheBereftSouls.Players;
 using TheBereftSouls.Utils;
 
-namespace TheBereftSouls.Content.Items.Accessories
+namespace TheBereftSouls.Content.Items.Accessories.Enchantments
 {
     [ExtendsFromMod("SOTS")]
     public class VesperaEnchantment : ModItem

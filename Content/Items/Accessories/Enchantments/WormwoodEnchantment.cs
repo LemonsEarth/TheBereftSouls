@@ -9,7 +9,7 @@ using Terraria.ModLoader;
 using TheBereftSouls.Content.Buffs;
 using TheBereftSouls.Utils;
 
-namespace TheBereftSouls.Content.Items.Accessories
+namespace TheBereftSouls.Content.Items.Accessories.Enchantments
 {
     [ExtendsFromMod("SOTS")]
     public class WormwoodEnchantment : ModItem

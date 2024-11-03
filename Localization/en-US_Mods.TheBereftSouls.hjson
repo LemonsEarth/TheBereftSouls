@@ -42,6 +42,16 @@ Items: {
 			Effects of Ice Skates
 			'''
 	}
+
+	PatchLeatherEnchantment: {
+		Tooltip:
+			'''
+			Snakes latch onto nearby enemies, dealing damage, inflicting venom, slowing them down and reducing their defense by 5
+			The higher the defense of the enemies, the weaker the effect is
+			Grants immunity to Venom
+			'''
+		DisplayName: Patch Leather Enchantment
+	}
 }
 
 Buffs: {
@@ -49,7 +59,16 @@ Buffs: {
 		DisplayName: Patched Up
 		Description: The blooming hooks have sacrificed themselves for you...
 	}
+
+	SnakeAttached: {
+		Description: Mods.TheBereftSouls.Buffs.SnakeAttached.Description
+		DisplayName: Snake Attached
+	}
 }
 
-Projectiles.VesperaStone.DisplayName: Vespera Stone
+Projectiles: {
+	VesperaStone.DisplayName: Vespera Stone
+	SnakeHead.DisplayName: Snake Head
+}
+
 "Keybinds.Vespera Enchantment Stone.DisplayName": Vespera  Enchantment  Stone

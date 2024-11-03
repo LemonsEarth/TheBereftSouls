@@ -7,7 +7,7 @@ using TheBereftSouls.Content.Tiles.Special;
 using TheBereftSouls.Players;
 using TheBereftSouls.Utils;
 
-namespace TheBereftSouls.Content.Projectiles.Friendly
+namespace TheBereftSouls.Content.Projectiles.Friendly.Special
 {
     [ExtendsFromMod("SOTS")]
     public class VesperaStone : ModProjectile
